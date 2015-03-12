@@ -15,13 +15,13 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Title: Edit me in _config.yml!"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "Tomek Rękawek"
+keywords:    "tomek rekawek, tomasz rekawek, sling, adobe aem, cq5, securecq, cognifide"
+description: "Tomek Rękawek - a bearded software engineer"
+source_link: "https://github.com/trekawek/trekawek.github.io"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
-google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: "UA-45981753-1"
 
 
 ### template colors, used site-wide via css ###
