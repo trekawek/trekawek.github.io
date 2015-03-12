@@ -25,6 +25,7 @@ I presented results of my efforts to integrate Sling with ActiveMQ.
 <i class="fa fa-eye"></i> <a href="http://www.adaptto.org/2013/04_interslingcommunication.shtml">Presentation</a><br/>
 <i class="fa fa-github"></i> <a href="https://github.com/Cognifide/PoC-Sling-JMS/">PoC Sling JMS</a>
 
+
 #### CQCON 2013, Basel
 
 ## Security testing with SecureCQ.
@@ -61,3 +62,7 @@ I presented an useful cache tool for Sling.
 I wrote a popular article on Sling mappings configuration.
 
 <i class="fa fa-pencil"></i> <a href="http://www.cognifide.com/blogs/cq/multidomain-cq-mappings-and-apache-configuration">Blog post</a><br/>
+
+<div style="text-align: center;">
+<img src="img/adaptto2013-photo.jpg" width="50%"/>
+</div>
