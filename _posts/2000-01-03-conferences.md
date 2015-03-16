@@ -17,7 +17,7 @@ I talked about Sling Query --- a jQuery-inspired repository traversal tool for S
 <i class="fa fa-github"></i> <a href="https://github.com/apache/sling/tree/trunk/contrib/extensions/sling-query">Sling Query</a>
 
 <a href="http://cognifide.github.io/Sling-Query/circuit2014">
-<img src="/img/conf/slingquery.png"/>
+<img src="/img/conf/slingquery.png" class="screenshot"/>
 </a>
 
 #### adaptTo() 2013, Berlin
@@ -30,7 +30,7 @@ I presented results of my efforts to integrate Sling with ActiveMQ.
 <i class="fa fa-github"></i> <a href="https://github.com/Cognifide/PoC-Sling-JMS/">PoC Sling JMS</a>
 
 <a href="http://www.slideshare.net/TomaszRkawek/activemq-adaptto">
-<img src="/img/conf/jms.png"/>
+<img src="/img/conf/jms.png" class="screenshot"/>
 </a>
 
 #### CQCON 2013, Basel
@@ -42,7 +42,7 @@ I presented SecureCQ --- automated security checklist for Adobe CQ5/AEM.
 <i class="fa fa-eye"></i> <a href="http://www.slideshare.net/TomaszRkawek/securecq">Presentation</a><br/>
 <i class="fa fa-github"></i> <a href="https://github.com/Cognifide/SecureCQ">SecureCQ</a>
 
-<img src="/img/cqcon2013-photo.jpg"/>
+<img src="/img/cqcon2013-photo.jpg" class="screenshot"/>
 
 #### Java User Group 2013, Poznań
 
@@ -53,7 +53,7 @@ I introduced local Java User Group to the Apache Jackrabbit and Apache Sling.
 <i class="fa fa-eye"></i> <a href="http://www.slideshare.net/TomaszRkawek/jcr-and-sling">Presentation</a><br/>
 
 <a href="http://www.slideshare.net/TomaszRkawek/jcr-and-sling">
-<img src="/img/conf/jcr-sling.jpg"/>
+<img src="/img/conf/jcr-sling.jpg" class="screenshot"/>
 </a>
 
 #### adaptTo() 2012, Berlin
@@ -69,7 +69,7 @@ I presented an useful cache tool for Sling.
 <i class="fa fa-github"></i> <a href="https://github.com/Cognifide/Sling-Dynamic-Include">Sling Dynamic Include</a>
 
 <a href="http://www.slideshare.net/TomaszRkawek/sling-dynamic-include">
-<img src="/img/conf/sdi.png"/>
+<img src="/img/conf/sdi.png" class="screenshot"/>
 </a>
 
 #### Cognifide blog 2012
@@ -80,4 +80,4 @@ I wrote a popular article on Sling mappings configuration.
 
 <i class="fa fa-pencil"></i> <a href="http://www.cognifide.com/blogs/cq/multidomain-cq-mappings-and-apache-configuration">Blog post</a><br/>
 
-<img src="/img/conf/multidomain.png"/>
+<img src="/img/conf/multidomain.png" class="screenshot"/>
