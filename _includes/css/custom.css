@@ -1,0 +1,7 @@
+.container p img {
+  border: 1px solid black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+} 

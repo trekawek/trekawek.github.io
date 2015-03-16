@@ -11,7 +11,9 @@ Carty is an integrated tool to create, edit, review and test Sling mappings for 
 
 <i class="fa fa-home"></i> <a href="http://cognifide.github.io/Carty/">Homepage</a>
 
+<a href="http://cognifide.github.io/Carty/">
 <img src="img/carty.png"/>
+</a>
 
 ## SecureCQ
 
@@ -19,7 +21,9 @@ Secure CQ is a tool which can be used to find the most popular security problems
 
 <i class="fa fa-github"></i> <a href="https://github.com/Cognifide/SecureCQ">Github</a>
 
+<a href="https://github.com/Cognifide/SecureCQ">
 <img src="img/securecq.png"/>
+</a>
 
 ## Sling Query
 
@@ -27,7 +31,9 @@ Sling Query is a Sling resource tree traversal tool inspired by the jQuery. It a
 
 <i class="fa fa-github"></i> <a href="https://github.com/apache/sling/tree/trunk/contrib/extensions/sling-query">Repository</a>
 
+<a href="https://github.com/apache/sling/tree/trunk/contrib/extensions/sling-query">
 <img src="img/slingquery.png"/>
+</a>
 
 ## Sling Dynamic Include
 
@@ -35,10 +41,6 @@ SDI replaces dynamic generated components (eg. current time or foreign exchange 
 
 <i class="fa fa-github"></i> <a href="https://github.com/Cognifide/Sling-Dynamic-Include">Github</a>
 
+<a href="https://github.com/Cognifide/Sling-Dynamic-Include">
 <img src="img/sdi.png"/>
-
-## Sling-S3
-
-A set of [crankstart](https://github.com/apache/sling/tree/trunk/contrib/crankstart/) configuration files starting a Sling instance based on Oak, with optional support to MongoDB (as a node store) and/or S3 (as a blob store).
-
-<i class="fa fa-github"></i> <a href="https://github.com/trekawek/Sling-S3">Github</a>
+</a>
