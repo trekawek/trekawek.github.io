@@ -80,4 +80,6 @@ I wrote a popular article on Sling mappings configuration.
 
 <i class="fa fa-pencil"></i> <a href="http://www.cognifide.com/blogs/cq/multidomain-cq-mappings-and-apache-configuration">Blog post</a><br/>
 
+<a href="http://www.cognifide.com/blogs/cq/multidomain-cq-mappings-and-apache-configuration">
 <img src="/img/conf/multidomain.png" class="screenshot"/>
+</a>
