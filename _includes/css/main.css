@@ -25,6 +25,7 @@ html { box-sizing: border-box; }
   #{{id}} .sectiondivider { color: {{ bg }}; }
 {% endfor %}
 
+nav .p-blog { border-color: #0fbfcf; }
 
 /* ----- code, syntax highlighting, etc ----- */
 
