@@ -5,6 +5,18 @@ color: white
 fa-icon: plane
 ---
 
+#### EVOLVE 2016, San Diego
+
+## CRX2Oak --- all the secrets of repository migration
+
+Basic CRX2Oak usage, more advanced options and some real-world cases of large-scale (hundreds of GBs) data migration cases.
+
+<i class="fa fa-eye"></i> <a href="https://www.slideshare.net/secret/4RP6jnK32za3FA">Presentation</a><br/>
+
+<a href="https://www.slideshare.net/secret/4RP6jnK32za3FA">
+<img src="/img/conf/crx2oak.png" class="screenshot"/>
+</a>
+
 #### CIRCUIT 2014, Chicago
 
 ## Use SlingQuery and walk the tree with ease
