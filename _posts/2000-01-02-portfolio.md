@@ -5,6 +5,16 @@ color: white
 fa-icon: code
 ---
 
+## Coffee GB
+
+Coffee GB is a Gameboy Color emulator written in Java 8. It's meant to be a development exercise and a way to learn about internal architecture of a retro game console.
+
+<i class="fa fa-github"></i> <a href="https://github.com/trekawek/coffee-gb">Github</a>
+
+<a href="https://github.com/trekawek/coffee-gb">
+<img src="img/coffee-gb.gif"/>
+</a>
+
 ## Carty
 
 Carty is an integrated tool to create, edit, review and test Sling mappings for Adobe CQ/AEM.
