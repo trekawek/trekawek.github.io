@@ -9,7 +9,7 @@ fa-icon: plane
 
 ## Zero downtime deployments for the Sling-based apps using Docker
 
-Presentatin shows how the Composite Node Store, a new Oak feature, can be used together with Docker to perform blue-green deployments. This kind of setup allows to dynamically change a part of the repository (containing the application code), while leaving the content part untouched.
+Presentation shows how the Composite Node Store, a new Oak feature, can be used together with Docker to perform blue-green deployments. This kind of setup allows to dynamically change a part of the repository (containing the application code), while leaving the content part untouched.
 
 <i class="fa fa-eye"></i> <a href="https://www.slideshare.net/secret/20JKzYtzfrFiBO">Presentation</a><br/>
 <i class="fa fa-video-camera"></i> <a href="https://www.youtube.com/watch?v=WtqBJpDmm3w">Video</a><br/>
