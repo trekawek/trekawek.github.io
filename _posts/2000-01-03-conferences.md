@@ -5,6 +5,19 @@ color: white
 fa-icon: plane
 ---
 
+#### adaptTo() 2017, Berlin
+
+## Zero downtime deployments for the Sling-based apps using Docker
+
+Presentatin shows how the Composite Node Store, a new Oak feature, can be used together with Docker to perform blue-green deployments. This kind of setup allows to dynamically change a part of the repository (containing the application code), while leaving the content part untouched.
+
+<i class="fa fa-eye"></i> <a href="https://adapt.to/content/dam/adaptto/production/presentations/2017/adaptTo2017-Zero-downtime-deployments-for-Sling-based-apps-Tomek-Rekawek-Robert-Munteanu.pdf/_jcr_content/renditions/original.media_file.download_attachment.file/adaptTo2017-Zero-downtime-deployments-for-Sling-based-apps-Tomek-Rekawek-Robert-Munteanu.pdf">Presentation</a><br/>
+<i class="fa fa-video-camera"></i> <a href="https://www.youtube.com/watch?v=WtqBJpDmm3w">Video</a><br/>
+
+<a href="https://adapt.to/content/dam/adaptto/production/presentations/2017/adaptTo2017-Zero-downtime-deployments-for-Sling-based-apps-Tomek-Rekawek-Robert-Munteanu.pdf/_jcr_content/renditions/original.media_file.download_attachment.file/adaptTo2017-Zero-downtime-deployments-for-Sling-based-apps-Tomek-Rekawek-Robert-Munteanu.pdf">
+<img src="/img/conf/0dt-deployments.png" class="screenshot"/>
+</a>
+
 #### EVOLVE 2016, San Diego
 
 ## CRX2Oak --- all the secrets of repository migration
