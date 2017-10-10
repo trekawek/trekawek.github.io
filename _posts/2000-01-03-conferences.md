@@ -15,7 +15,7 @@ Presentation shows how the Composite Node Store, a new Oak feature, can be used 
 <i class="fa fa-video-camera"></i> <a href="https://www.youtube.com/watch?v=WtqBJpDmm3w">Video</a><br/>
 
 <a href="https://www.slideshare.net/secret/20JKzYtzfrFiBO">
-<img src="/img/conf/0dt-deployments.png" class="screenshot"/>
+<img src="/img/conf/0dt-deployments.jpg" class="screenshot"/>
 </a>
 
 #### EVOLVE 2016, San Diego
