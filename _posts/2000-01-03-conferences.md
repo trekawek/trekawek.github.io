@@ -5,6 +5,18 @@ color: white
 fa-icon: plane
 ---
 
+#### Toruń JUG #36, 2017
+
+## Game Boy emulation in Java
+
+Polish presentation about my [Coffee GB](#coffee-gb) emulator.
+
+<i class="fa fa-eye"></i> <a href="https://www.slideshare.net/TomaszRkawek/emulating-game-boy-in-java">Presentation</a><br/>
+<i class="fa fa-video-camera"></i> <a href="https://www.youtube.com/watch?v=uKv-DCKXWmg">Video</a><br/>
+<i class="fa fa-meetup"></i> <a href="https://www.meetup.com/Torun-JUG/events/245022154/">Event webpage</a><br/>
+
+<img src="/img/conf/torun-2017.jpg" class="screenshot"/>
+
 #### adaptTo() 2017, Berlin
 
 ## Zero downtime deployments for the Sling-based apps using Docker
