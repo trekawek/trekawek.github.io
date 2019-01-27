@@ -20,7 +20,8 @@ A page displaying the current air quality indicators (PM<sub>10</sub> and PM<sub
 
 Coffee GB is a Gameboy Color emulator written in Java 8. It's meant to be a development exercise and a way to learn about internal architecture of a retro game console.
 
-<i class="fa fa-github"></i> <a href="https://github.com/trekawek/coffee-gb">Github</a>
+<i class="fa fa-github"></i> <a href="https://github.com/trekawek/coffee-gb">Github</a><br/>
+<i class="fa fa-pencil"></i> <a href="http://blog.rekawek.eu/2017/02/09/coffee-gb/">Why did I spend 1.5 months creating a Gameboy emulator?</a>
 
 <a href="https://github.com/trekawek/coffee-gb">
 <img src="img/coffee-gb.gif"/>
