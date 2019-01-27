@@ -5,6 +5,17 @@ color: white
 fa-icon: code
 ---
 
+## Air Quality Info
+
+A page displaying the current air quality indicators (PM<sub>10</sub> and PM<sub>2.5</sub>) and weather info, using a ESP8266-based, [Luftdaten-compatible](https://luftdaten.info/feinstaubsensor-bauen/) sensor as a data source.
+
+<i class="fa fa-line-chart"></i> <a href="https://smog.rekawek.eu">Live demo</a><br/>
+<i class="fa fa-github"></i> <a href="https://github.com/trekawek/air-quality-info">Github</a>
+
+<a href="https://smog.rekawek.eu">
+<img src="img/air-quality-info.png"/>
+</a>
+
 ## Coffee GB
 
 Coffee GB is a Gameboy Color emulator written in Java 8. It's meant to be a development exercise and a way to learn about internal architecture of a retro game console.
