@@ -51,9 +51,9 @@ Secure CQ is a tool which can be used to find the most popular security problems
 
 Sling Query is a Sling resource tree traversal tool inspired by the jQuery. It allows to avoid boilerplate code using convenient, functional API.
 
-<i class="fa fa-github"></i> <a href="https://github.com/apache/sling/tree/trunk/contrib/extensions/sling-query">Repository</a>
+<i class="fa fa-github"></i> <a href="https://github.com/apache/sling-org-apache-sling-query">Repository</a>
 
-<a href="https://github.com/apache/sling/tree/trunk/contrib/extensions/sling-query">
+<a href="https://github.com/apache/sling-org-apache-sling-query">
 <img src="img/slingquery.png" class="screenshot"/>
 </a>
 
@@ -61,8 +61,8 @@ Sling Query is a Sling resource tree traversal tool inspired by the jQuery. It a
 
 SDI replaces dynamic generated components (eg. current time or foreign exchange rates) with server-side include tag (eg. SSI or ESI). Therefore the dispatcher is able to cache the whole page but dynamic components are generated and included with every request. 
 
-<i class="fa fa-github"></i> <a href="https://github.com/Cognifide/Sling-Dynamic-Include">Github</a>
+<i class="fa fa-github"></i> <a href="https://github.com/apache/sling-org-apache-sling-dynamic-include">Github</a>
 
-<a href="https://github.com/Cognifide/Sling-Dynamic-Include">
+<a href="https://github.com/apache/sling-org-apache-sling-dynamic-include">
 <img src="img/sdi.png" class="screenshot"/>
 </a>
