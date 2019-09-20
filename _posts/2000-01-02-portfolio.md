@@ -7,7 +7,7 @@ fa-icon: code
 
 ## aqi.eco
 
-I'm maintaining a SaaS that reads the data from a ESP8266-based, [Luftdaten-compatible](https://luftdaten.info/feinstaubsensor-bauen/) air pollution sensor and display it in a nice way.
+I'm maintaining a SaaS that reads the data from an ESP8266-based, [Luftdaten-compatible](https://luftdaten.info/feinstaubsensor-bauen/) air pollution sensor and displays it in a nice way.
 
 <i class="fa fa-line-chart"></i> <a href="https://aqi.eco">aqi.eco</a><br/>
 <i class="fa fa-home"></i> <a href="https://smolna.aqi.eco">Live demo</a><br/>
