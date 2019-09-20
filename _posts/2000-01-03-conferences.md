@@ -5,6 +5,19 @@ color: white
 fa-icon: plane
 ---
 
+#### adaptTo() 2019, Berlin
+
+## Deep-dive into cloud-native AEM deployments based on Kubernetes
+
+Presentation gives an overview on the Kubernetes setup we internally use in Adobe, the issues we've run into and the ways we're dealing with them.
+
+<i class="fa fa-eye"></i> <a href="https://www.slideshare.net/TomaszRkawek/deepdive-into-cloudnative-aem-deployments-based-on-kubernetes">Presentation</a><br/>
+<i class="fa fa-video-camera"></i> <a href="https://www.youtube.com/watch?v=WPhvj5VnGoM">Video</a><br/>
+
+<a href="https://www.slideshare.net/TomaszRkawek/deepdive-into-cloudnative-aem-deployments-based-on-kubernetes">
+<img src="/img/conf/kubernetes.png" class="screenshot"/>
+</a>
+
 #### Toruń JUG #36, 2017
 
 ## Game Boy emulation in Java
