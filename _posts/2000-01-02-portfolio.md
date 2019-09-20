@@ -5,11 +5,12 @@ color: white
 fa-icon: code
 ---
 
-## Air Quality Info
+## aqi.eco
 
-A page displaying the current air quality indicators (PM<sub>10</sub> and PM<sub>2.5</sub>) and weather info, using a ESP8266-based, [Luftdaten-compatible](https://luftdaten.info/feinstaubsensor-bauen/) sensor as a data source.
+I'm maintaining a SaaS that reads the data from a ESP8266-based, [Luftdaten-compatible](https://luftdaten.info/feinstaubsensor-bauen/) air pollution sensor and display it in a nice way.
 
-<i class="fa fa-line-chart"></i> <a href="https://smog.rekawek.eu">Live demo</a><br/>
+<i class="fa fa-line-chart"></i> <a href="https://aqi.eco">aqi.eco</a><br/>
+<i class="fa fa-home"></i> <a href="https://smolna.aqi.eco">Live demo</a><br/>
 <i class="fa fa-github"></i> <a href="https://github.com/trekawek/air-quality-info">Github</a>
 
 <a href="https://smog.rekawek.eu">
